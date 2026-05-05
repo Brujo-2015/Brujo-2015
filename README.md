@@ -1,3 +1,5 @@
+[![Portfolio](https://raw.githubusercontent.com/Brujo-2015/Brujo-2015/main/assets/portfolio-preview.png)](https://brujo-2015.github.io/)
+
 # Hugo Villalva
 
 Executive leader bridging business strategy and technology through data systems, full-stack development, and AI.
